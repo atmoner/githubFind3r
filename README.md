@@ -14,5 +14,5 @@ npm install
 ```
 Run it
 ```
-npm start
+node githubFind3r.js
 ```
