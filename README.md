@@ -8,8 +8,8 @@ githubFind3r is a very fast command line repo/user/commit search tool
 ## Installation
 
 ```sh
-git clone https://github.com/atmoner/TwitWork.git
-cd TwitWork
+git clone https://github.com/atmoner/githubFind3r.git
+cd githubFind3r
 npm install
 ```
 Run it
