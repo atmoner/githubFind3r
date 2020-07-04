@@ -12,7 +12,7 @@ git clone https://github.com/atmoner/githubFind3r.git
 cd githubFind3r
 npm install
 ```
-Run it
+## Run it
 ```
 node githubFind3r.js
 ```
